@@ -1,3 +1,3 @@
 # hello-world
-just another repository
-welcome to my git
+just another repository.
+welcome to my git.
